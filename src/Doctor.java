@@ -4,6 +4,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Scanner;
 
+// intialise the Doctor Class
 public class Doctor {
 
     private static Connection connection;
